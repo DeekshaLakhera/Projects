@@ -3,7 +3,7 @@ from tkinter import *
 import datetime
 hname='localhost'
 dbuser='root'
-dbpass='shri krishna'
+dbpass='    '
 portno=3306
 dbname='feemanagementsystem'
 newn=''
