@@ -1,0 +1,921 @@
+,Building,Flat,Area,Location,Connectivity,Price
+0,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+1,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+2,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+3,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+4,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+5,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+6,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+7,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+8,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+9,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+10,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+11,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+12,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+13,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+14,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+15,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+16,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+17,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+18,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+19,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+20,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+21,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+22,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+23,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+24,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+25,Leisure Town,1 BHK1 Bath,460 sq.ft. (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+26,Park Titan,2 BHK,726-789 sq.ft. (67-73 sq.m.) Carpet Area,2 BHK Apartment in Marunji,9,₹ 70  - 76 L
+27,Pethkar Siyona4.4 ★,3 BHK3 Baths,"1,090-1,120 sq.ft. (101-104 sq.m.) Carpet Area",3 BHK Apartment in Punawale,15,"₹ 1.01  - 1.05 Cr₹ 9,320/sq.ft."
+28,Pethkar Siyona4.4 ★,2 BHK2 Baths,840-880 sq.ft. (78-82 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 70  - 74 L₹ 8,371/sq.ft."
+29,Ganraj Skydale,2 BHK,541-674 sq.ft. (50-63 sq.m.) Carpet Area,2 BHK Apartment in Undri,15,₹ 35.47  - 45 L
+30,Ganraj Skydale,1 BHK1 Bath,415-466 sq.ft. (39-43 sq.m.) Carpet Area,1 BHK Apartment in Undri,15,₹ 27.91  - 30.97 L
+31,Vansh Viva,2 BHK,687-710 sq.ft. (64-66 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,9,₹ 43.61  - 44.91 L
+32,Vansh Viva,1 BHK,445-468 sq.ft. (41-43 sq.m.) Carpet Area,1 BHK Apartment in Kiwale,9,₹ 30.65  - 32.15 L
+33,Shubh Nirvana,3 BHK3 Baths,"1,117-1,248 sq.ft. (104-116 sq.m.) Carpet Area",3 BHK Apartment in Viman Nagar,31,₹ 1.55  - 1.75 Cr
+34,Bright Aristo,2 BHK2 Baths,680 sq.ft. (63 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,5,₹ 42 L
+35,Bright Aristo,1 BHK1 Bath,484 sq.ft. (45 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,5,₹ 35 L
+36,Panchshil Towers4.4 ★,3 BHK,"1,648-3,405 sq.ft. (153-316 sq.m.) Super built-up Area",3 BHK Apartment in Kharadi,6,"₹ 2.68  - 5.54 Cr₹ 16,265/sq.ft."
+37,Kumar Palmcrest,2 BHK2 Baths,779 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Pisoli,15,Price on Request
+38,Samarth Mrudula Residency,1 BHK,374-490 sq.ft. (35-46 sq.m.) Carpet Area,1 BHK Apartment in Bhosari,34,"₹ 33  - 38 L₹ 7,807/sq.ft."
+39,Unika,3 BHK,"1,067 sq.ft. (99 sq.m.) Carpet Area",3 BHK Apartment in Hadapsar,12,₹ 1.05 Cr
+40,Nivasa Enchante,3 BHK3 Baths,854 sq.ft. (79 sq.m.) Carpet Area,3 BHK Apartment in Lohegaon,7,₹ 79.04 L
+41,Nivasa Enchante,2 BHK,672-771 sq.ft. (62-72 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,7,₹ 57.17  - 65.14 L
+42,Tirupati Nakshatra,2 BHK,665 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Marunji,8,₹ 36.22 L
+43,Tirupati Nakshatra,1 BHK,452-456 sq.ft. (42-42 sq.m.) Carpet Area,1 BHK Apartment in Marunji,8,₹ 25.1  - 25.29 L
+44,Runal Spacio,3 BHK2 Baths,801-905 sq.ft. (74-84 sq.m.) Carpet Area,3 BHK Apartment in Kiwale,15,"₹ 72  - 80 L₹ 8,913/sq.ft."
+45,Runal Spacio,2 BHK2 Baths,672-739 sq.ft. (62-69 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,15,"₹ 62  - 68 L₹ 9,213/sq.ft."
+46,Shapoorji Joyville Hadapsar Annexe4.4 ★,3 BHK,894 sq.ft. (83 sq.m.) Carpet Area,3 BHK Apartment in Shewalewadi,15,₹ 94.4 L
+47,Shapoorji Joyville Hadapsar Annexe4.4 ★,2 BHK,619-726 sq.ft. (58-67 sq.m.) Carpet Area,2 BHK Apartment in Shewalewadi,15,₹ 68.2  - 74.2 L
+48,Shapoorji Joyville Hadapsar Annexe4.4 ★,1 BHK,430 sq.ft. (40 sq.m.) Carpet Area,1 BHK Apartment in Shewalewadi,15,₹ 42.02 L
+49,Gulmohar Sky Park,2 BHK,631-645 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Dhanori,6,₹ 50.67  - 54.64 L
+50,Kumar Peninsula,3 BHK3 Baths,"995-1,364 sq.ft. (92-127 sq.m.) Carpet Area",3 BHK Apartment in Baner,15,"₹ 1.51  - 2.07 Cr₹ 15,178/sq.ft."
+51,Kalpataru Exquisite,3 BHK,"1,122 sq.ft. (104 sq.m.) Super built-up Area",3 BHK Apartment in Wakad,15,"₹ 1.14 Cr₹ 10,160/sq.ft."
+52,Goodwill Meadows4.2 ★,2 BHK2 Baths,333 sq.ft. (31 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,30,"₹ 48 L₹ 14,394/sq.ft."
+53,Orchid Homes,3 BHK,"1,091 sq.ft. (101 sq.m.) Carpet Area",3 BHK Apartment in Chinchwad,17,₹ 100 L
+54,Orchid Homes,2 BHK,780-835 sq.ft. (72-78 sq.m.) Carpet Area,2 BHK Apartment in Chinchwad,17,₹ 73.44  - 78.27 L
+55,NG Rathi Vrundavan,2 BHK2 Baths,608 sq.ft. (56 sq.m.) Carpet Area,2 BHK Apartment in Vishrantwadi,49,₹ 56 L
+56,Manasi Residency,2 BHK1 Bath,575 sq.ft. (53 sq.m.) Carpet Area,2 BHK Apartment in Kondhwa Budruk,29,₹ 47 L
+57,Manasi Residency,1 BHK1 Bath,503 sq.ft. (47 sq.m.) Carpet Area,1 BHK Apartment in Kondhwa Budruk,29,₹ 40 L
+58,Townscape Sneh Mithila,2 BHK,796 sq.ft. (74 sq.m.) Carpet Area,2 BHK Apartment in Pimple Saudagar,6,₹ 70 L
+59,Mulik Luxuria3.3 ★,2 BHK,786-811 sq.ft. (73-75 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,15,₹ 50.62  - 52.05 L
+60,Greenville,3 BHK3 Baths,"992-1,109 sq.ft. (92-103 sq.m.) Carpet Area",3 BHK Apartment in Hadapsar,4,₹ 96.62 L - 1.08 Cr
+61,Unika,2 BHK,795 sq.ft. (74 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,12,₹ 78 L
+62,Jhala Group Mahalunge Riviera,3 BHK,955-989 sq.ft. (89-92 sq.m.) Carpet Area,3 BHK Apartment in Mahalunge,14,₹ 93.5  - 95 L
+63,Rohan VITI,3 BHK,"1,065 sq.ft. (99 sq.m.) Carpet Area",3 BHK Apartment in Wakad,6,₹ 1.25 Cr
+64,Rohan VITI,2 BHK,798 sq.ft. (74 sq.m.) Carpet Area,2 BHK Apartment in Wakad,6,₹ 93 L
+65,Pride SOHO,3 BHK,950 sq.ft. (88 sq.m.) Carpet Area,3 BHK Apartment in Charholi,12,₹ 74.71 L
+66,Pride SOHO,2 BHK,783-786 sq.ft. (73-73 sq.m.) Carpet Area,2 BHK Apartment in Charholi,12,₹ 60.25  - 60.51 L
+67,JD Gaatha,3 BHK,"998-1,056 sq.ft. (93-98 sq.m.) Carpet Area",3 BHK Apartment in Lohegaon,8,₹ 71.87  - 75.72 L
+68,JD Gaatha,2 BHK,722-819 sq.ft. (67-76 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,8,₹ 53.51  - 59.96 L
+69,iLife Upper NIBM,3 BHK,"1,025-1,031 sq.ft. (95-96 sq.m.) Carpet Area",3 BHK Apartment in NIBM,14,₹ 84.65  - 85.11 L
+70,iLife Upper NIBM,2 BHK,715-872 sq.ft. (66-81 sq.m.) Carpet Area,2 BHK Apartment in NIBM,14,₹ 60.83  - 72.89 L
+71,Tikona Srushti,,"14,000-23,134 sq.ft. (1301-2149 sq.m.) Plot Area",Residential land / Plot in Hadashi,5,Price on Request
+72,Mulik Luxuria3.3 ★,3 BHK3 Baths,"1,004-1,052 sq.ft. (93-98 sq.m.) Carpet Area",3 BHK Apartment in Wagholi,15,₹ 63.26  - 66.06 L
+73,Mulik Luxuria3.3 ★,1 BHK,440 sq.ft. (41 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,15,₹ 28.55 L
+74,Rohit Aloha,2 BHK,770 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Wakad,10,₹ 70.01 L
+75,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+76,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+77,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+78,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+79,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+80,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+81,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+82,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+83,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+84,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+85,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+86,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+87,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+88,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+89,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+90,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+91,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+92,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+93,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+94,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+95,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+96,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+97,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+98,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+99,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+100,Leisure Town,1 BHK1 Bath,51 sq.yards (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+101,Park Titan,2 BHK,80-87 sq.yards (67-73 sq.m.) Carpet Area,2 BHK Apartment in Marunji,9,₹ 70  - 76 L
+102,Pethkar Siyona4.4 ★,3 BHK3 Baths,121-124 sq.yards (101-104 sq.m.) Carpet Area,3 BHK Apartment in Punawale,15,"₹ 1.01  - 1.05 Cr₹ 9,320/sq.ft."
+103,Pethkar Siyona4.4 ★,2 BHK2 Baths,93-97 sq.yards (78-82 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 70  - 74 L₹ 8,371/sq.ft."
+104,Ganraj Skydale,2 BHK,60-74 sq.yards (50-63 sq.m.) Carpet Area,2 BHK Apartment in Undri,15,₹ 35.47  - 45 L
+105,Ganraj Skydale,1 BHK1 Bath,46-51 sq.yards (39-43 sq.m.) Carpet Area,1 BHK Apartment in Undri,15,₹ 27.91  - 30.97 L
+106,Vansh Viva,2 BHK,76-78 sq.yards (64-66 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,9,₹ 43.61  - 44.91 L
+107,Vansh Viva,1 BHK,49-52 sq.yards (41-43 sq.m.) Carpet Area,1 BHK Apartment in Kiwale,9,₹ 30.65  - 32.15 L
+108,Shubh Nirvana,3 BHK3 Baths,124-138 sq.yards (104-116 sq.m.) Carpet Area,3 BHK Apartment in Viman Nagar,31,₹ 1.55  - 1.75 Cr
+109,Bright Aristo,2 BHK2 Baths,75 sq.yards (63 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,5,₹ 42 L
+110,Bright Aristo,1 BHK1 Bath,53 sq.yards (45 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,5,₹ 35 L
+111,Panchshil Towers4.4 ★,3 BHK,183-378 sq.yards (153-316 sq.m.) Super built-up Area,3 BHK Apartment in Kharadi,6,"₹ 2.68  - 5.54 Cr₹ 16,265/sq.ft."
+112,Kumar Palmcrest,2 BHK2 Baths,86 sq.yards (72 sq.m.) Carpet Area,2 BHK Apartment in Pisoli,15,Price on Request
+113,Samarth Mrudula Residency,1 BHK,41-54 sq.yards (35-46 sq.m.) Carpet Area,1 BHK Apartment in Bhosari,34,"₹ 33  - 38 L₹ 7,807/sq.ft."
+114,Unika,3 BHK,118 sq.yards (99 sq.m.) Carpet Area,3 BHK Apartment in Hadapsar,12,₹ 1.05 Cr
+115,Nivasa Enchante,3 BHK3 Baths,94 sq.yards (79 sq.m.) Carpet Area,3 BHK Apartment in Lohegaon,7,₹ 79.04 L
+116,Nivasa Enchante,2 BHK,74-85 sq.yards (62-72 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,7,₹ 57.17  - 65.14 L
+117,Tirupati Nakshatra,2 BHK,73 sq.yards (62 sq.m.) Carpet Area,2 BHK Apartment in Marunji,8,₹ 36.22 L
+118,Tirupati Nakshatra,1 BHK,50-50 sq.yards (42-42 sq.m.) Carpet Area,1 BHK Apartment in Marunji,8,₹ 25.1  - 25.29 L
+119,Runal Spacio,3 BHK2 Baths,89-100 sq.yards (74-84 sq.m.) Carpet Area,3 BHK Apartment in Kiwale,15,"₹ 72  - 80 L₹ 8,913/sq.ft."
+120,Runal Spacio,2 BHK2 Baths,74-82 sq.yards (62-69 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,15,"₹ 62  - 68 L₹ 9,213/sq.ft."
+121,Shapoorji Joyville Hadapsar Annexe4.4 ★,3 BHK,99 sq.yards (83 sq.m.) Carpet Area,3 BHK Apartment in Shewalewadi,15,₹ 94.4 L
+122,Shapoorji Joyville Hadapsar Annexe4.4 ★,2 BHK,68-80 sq.yards (58-67 sq.m.) Carpet Area,2 BHK Apartment in Shewalewadi,15,₹ 68.2  - 74.2 L
+123,Shapoorji Joyville Hadapsar Annexe4.4 ★,1 BHK,47 sq.yards (40 sq.m.) Carpet Area,1 BHK Apartment in Shewalewadi,15,₹ 42.02 L
+124,Gulmohar Sky Park,2 BHK,70-71 sq.yards (59-60 sq.m.) Carpet Area,2 BHK Apartment in Dhanori,6,₹ 50.67  - 54.64 L
+125,Kumar Peninsula,3 BHK3 Baths,110-151 sq.yards (92-127 sq.m.) Carpet Area,3 BHK Apartment in Baner,15,"₹ 1.51  - 2.07 Cr₹ 15,178/sq.ft."
+126,Kalpataru Exquisite,3 BHK,124 sq.yards (104 sq.m.) Super built-up Area,3 BHK Apartment in Wakad,15,"₹ 1.14 Cr₹ 10,160/sq.ft."
+127,Goodwill Meadows4.2 ★,2 BHK2 Baths,37 sq.yards (31 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,30,"₹ 48 L₹ 14,394/sq.ft."
+128,Orchid Homes,3 BHK,121 sq.yards (101 sq.m.) Carpet Area,3 BHK Apartment in Chinchwad,17,₹ 100 L
+129,Orchid Homes,2 BHK,86-92 sq.yards (72-78 sq.m.) Carpet Area,2 BHK Apartment in Chinchwad,17,₹ 73.44  - 78.27 L
+130,NG Rathi Vrundavan,2 BHK2 Baths,67 sq.yards (56 sq.m.) Carpet Area,2 BHK Apartment in Vishrantwadi,49,₹ 56 L
+131,Manasi Residency,2 BHK1 Bath,63 sq.yards (53 sq.m.) Carpet Area,2 BHK Apartment in Kondhwa Budruk,29,₹ 47 L
+132,Manasi Residency,1 BHK1 Bath,55 sq.yards (47 sq.m.) Carpet Area,1 BHK Apartment in Kondhwa Budruk,29,₹ 40 L
+133,Townscape Sneh Mithila,2 BHK,88 sq.yards (74 sq.m.) Carpet Area,2 BHK Apartment in Pimple Saudagar,6,₹ 70 L
+134,Mulik Luxuria3.3 ★,2 BHK,87-90 sq.yards (73-75 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,15,₹ 50.62  - 52.05 L
+135,Greenville,3 BHK3 Baths,110-123 sq.yards (92-103 sq.m.) Carpet Area,3 BHK Apartment in Hadapsar,4,₹ 96.62 L - 1.08 Cr
+136,Unika,2 BHK,88 sq.yards (74 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,12,₹ 78 L
+137,Jhala Group Mahalunge Riviera,3 BHK,106-109 sq.yards (89-92 sq.m.) Carpet Area,3 BHK Apartment in Mahalunge,14,₹ 93.5  - 95 L
+138,Rohan VITI,3 BHK,118 sq.yards (99 sq.m.) Carpet Area,3 BHK Apartment in Wakad,6,₹ 1.25 Cr
+139,Rohan VITI,2 BHK,88 sq.yards (74 sq.m.) Carpet Area,2 BHK Apartment in Wakad,6,₹ 93 L
+140,Pride SOHO,3 BHK,105 sq.yards (88 sq.m.) Carpet Area,3 BHK Apartment in Charholi,12,₹ 74.71 L
+141,Pride SOHO,2 BHK,87-87 sq.yards (73-73 sq.m.) Carpet Area,2 BHK Apartment in Charholi,12,₹ 60.25  - 60.51 L
+142,JD Gaatha,3 BHK,110-117 sq.yards (93-98 sq.m.) Carpet Area,3 BHK Apartment in Lohegaon,8,₹ 71.87  - 75.72 L
+143,JD Gaatha,2 BHK,80-91 sq.yards (67-76 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,8,₹ 53.51  - 59.96 L
+144,iLife Upper NIBM,3 BHK,113-114 sq.yards (95-96 sq.m.) Carpet Area,3 BHK Apartment in NIBM,14,₹ 84.65  - 85.11 L
+145,iLife Upper NIBM,2 BHK,79-96 sq.yards (66-81 sq.m.) Carpet Area,2 BHK Apartment in NIBM,14,₹ 60.83  - 72.89 L
+146,Tikona Srushti,,"1,555-2,570 sq.yards (1301-2149 sq.m.) Plot Area",Residential land / Plot in Hadashi,5,Price on Request
+147,Mulik Luxuria3.3 ★,3 BHK3 Baths,111-116 sq.yards (93-98 sq.m.) Carpet Area,3 BHK Apartment in Wagholi,15,₹ 63.26  - 66.06 L
+148,Mulik Luxuria3.3 ★,1 BHK,48 sq.yards (41 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,15,₹ 28.55 L
+149,Rohit Aloha,2 BHK,85 sq.yards (72 sq.m.) Carpet Area,2 BHK Apartment in Wakad,10,₹ 70.01 L
+150,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+151,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+152,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+153,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+154,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+155,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+156,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+157,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+158,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+159,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+160,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+161,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+162,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+163,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+164,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+165,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+166,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+167,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+168,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+169,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+170,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+171,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+172,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+173,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+174,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+175,Leisure Town,1 BHK1 Bath,42 sq.m. Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+176,Park Titan,2 BHK,67-73 sq.m. Carpet Area,2 BHK Apartment in Marunji,9,₹ 70  - 76 L
+177,Pethkar Siyona4.4 ★,3 BHK3 Baths,101-104 sq.m. Carpet Area,3 BHK Apartment in Punawale,15,"₹ 1.01  - 1.05 Cr₹ 9,320/sq.ft."
+178,Pethkar Siyona4.4 ★,2 BHK2 Baths,78-81 sq.m. Carpet Area,2 BHK Apartment in Punawale,15,"₹ 70  - 74 L₹ 8,371/sq.ft."
+179,Ganraj Skydale,2 BHK,50-62 sq.m. Carpet Area,2 BHK Apartment in Undri,15,₹ 35.47  - 45 L
+180,Ganraj Skydale,1 BHK1 Bath,38-43 sq.m. Carpet Area,1 BHK Apartment in Undri,15,₹ 27.91  - 30.97 L
+181,Vansh Viva,2 BHK,63-65 sq.m. Carpet Area,2 BHK Apartment in Kiwale,9,₹ 43.61  - 44.91 L
+182,Vansh Viva,1 BHK,41-43 sq.m. Carpet Area,1 BHK Apartment in Kiwale,9,₹ 30.65  - 32.15 L
+183,Shubh Nirvana,3 BHK3 Baths,103-115 sq.m. Carpet Area,3 BHK Apartment in Viman Nagar,31,₹ 1.55  - 1.75 Cr
+184,Bright Aristo,2 BHK2 Baths,63 sq.m. Carpet Area,2 BHK Apartment in Wagholi,5,₹ 42 L
+185,Bright Aristo,1 BHK1 Bath,44 sq.m. Carpet Area,1 BHK Apartment in Wagholi,5,₹ 35 L
+186,Panchshil Towers4.4 ★,3 BHK,153-316 sq.m. Super built-up Area,3 BHK Apartment in Kharadi,6,"₹ 2.68  - 5.54 Cr₹ 16,265/sq.ft."
+187,Kumar Palmcrest,2 BHK2 Baths,72 sq.m. Carpet Area,2 BHK Apartment in Pisoli,15,Price on Request
+188,Samarth Mrudula Residency,1 BHK,34-45 sq.m. Carpet Area,1 BHK Apartment in Bhosari,34,"₹ 33  - 38 L₹ 7,807/sq.ft."
+189,Unika,3 BHK,99 sq.m. Carpet Area,3 BHK Apartment in Hadapsar,12,₹ 1.05 Cr
+190,Nivasa Enchante,3 BHK3 Baths,79 sq.m. Carpet Area,3 BHK Apartment in Lohegaon,7,₹ 79.04 L
+191,Nivasa Enchante,2 BHK,62-71 sq.m. Carpet Area,2 BHK Apartment in Lohegaon,7,₹ 57.17  - 65.14 L
+192,Tirupati Nakshatra,2 BHK,61 sq.m. Carpet Area,2 BHK Apartment in Marunji,8,₹ 36.22 L
+193,Tirupati Nakshatra,1 BHK,41-42 sq.m. Carpet Area,1 BHK Apartment in Marunji,8,₹ 25.1  - 25.29 L
+194,Runal Spacio,3 BHK2 Baths,74-84 sq.m. Carpet Area,3 BHK Apartment in Kiwale,15,"₹ 72  - 80 L₹ 8,913/sq.ft."
+195,Runal Spacio,2 BHK2 Baths,62-68 sq.m. Carpet Area,2 BHK Apartment in Kiwale,15,"₹ 62  - 68 L₹ 9,213/sq.ft."
+196,Shapoorji Joyville Hadapsar Annexe4.4 ★,3 BHK,83 sq.m. Carpet Area,3 BHK Apartment in Shewalewadi,15,₹ 94.4 L
+197,Shapoorji Joyville Hadapsar Annexe4.4 ★,2 BHK,57-67 sq.m. Carpet Area,2 BHK Apartment in Shewalewadi,15,₹ 68.2  - 74.2 L
+198,Shapoorji Joyville Hadapsar Annexe4.4 ★,1 BHK,39 sq.m. Carpet Area,1 BHK Apartment in Shewalewadi,15,₹ 42.02 L
+199,Gulmohar Sky Park,2 BHK,58-59 sq.m. Carpet Area,2 BHK Apartment in Dhanori,6,₹ 50.67  - 54.64 L
+200,Kumar Peninsula,3 BHK3 Baths,92-126 sq.m. Carpet Area,3 BHK Apartment in Baner,15,"₹ 1.51  - 2.07 Cr₹ 15,178/sq.ft."
+201,Kalpataru Exquisite,3 BHK,104 sq.m. Super built-up Area,3 BHK Apartment in Wakad,15,"₹ 1.14 Cr₹ 10,160/sq.ft."
+202,Goodwill Meadows4.2 ★,2 BHK2 Baths,30 sq.m. Carpet Area,2 BHK Apartment in Lohegaon,30,"₹ 48 L₹ 14,394/sq.ft."
+203,Orchid Homes,3 BHK,101 sq.m. Carpet Area,3 BHK Apartment in Chinchwad,17,₹ 100 L
+204,Orchid Homes,2 BHK,72-77 sq.m. Carpet Area,2 BHK Apartment in Chinchwad,17,₹ 73.44  - 78.27 L
+205,NG Rathi Vrundavan,2 BHK2 Baths,56 sq.m. Carpet Area,2 BHK Apartment in Vishrantwadi,49,₹ 56 L
+206,Manasi Residency,2 BHK1 Bath,53 sq.m. Carpet Area,2 BHK Apartment in Kondhwa Budruk,29,₹ 47 L
+207,Manasi Residency,1 BHK1 Bath,46 sq.m. Carpet Area,1 BHK Apartment in Kondhwa Budruk,29,₹ 40 L
+208,Townscape Sneh Mithila,2 BHK,73 sq.m. Carpet Area,2 BHK Apartment in Pimple Saudagar,6,₹ 70 L
+209,Mulik Luxuria3.3 ★,2 BHK,73-75 sq.m. Carpet Area,2 BHK Apartment in Wagholi,15,₹ 50.62  - 52.05 L
+210,Greenville,3 BHK3 Baths,92-103 sq.m. Carpet Area,3 BHK Apartment in Hadapsar,4,₹ 96.62 L - 1.08 Cr
+211,Unika,2 BHK,73 sq.m. Carpet Area,2 BHK Apartment in Hadapsar,12,₹ 78 L
+212,Jhala Group Mahalunge Riviera,3 BHK,88-91 sq.m. Carpet Area,3 BHK Apartment in Mahalunge,14,₹ 93.5  - 95 L
+213,Rohan VITI,3 BHK,98 sq.m. Carpet Area,3 BHK Apartment in Wakad,6,₹ 1.25 Cr
+214,Rohan VITI,2 BHK,74 sq.m. Carpet Area,2 BHK Apartment in Wakad,6,₹ 93 L
+215,Pride SOHO,3 BHK,88 sq.m. Carpet Area,3 BHK Apartment in Charholi,12,₹ 74.71 L
+216,Pride SOHO,2 BHK,72-73 sq.m. Carpet Area,2 BHK Apartment in Charholi,12,₹ 60.25  - 60.51 L
+217,JD Gaatha,3 BHK,92-98 sq.m. Carpet Area,3 BHK Apartment in Lohegaon,8,₹ 71.87  - 75.72 L
+218,JD Gaatha,2 BHK,67-76 sq.m. Carpet Area,2 BHK Apartment in Lohegaon,8,₹ 53.51  - 59.96 L
+219,iLife Upper NIBM,3 BHK,95-95 sq.m. Carpet Area,3 BHK Apartment in NIBM,14,₹ 84.65  - 85.11 L
+220,iLife Upper NIBM,2 BHK,66-81 sq.m. Carpet Area,2 BHK Apartment in NIBM,14,₹ 60.83  - 72.89 L
+221,Tikona Srushti,,"1,300-2,149 sq.m. Plot Area",Residential land / Plot in Hadashi,5,Price on Request
+222,Mulik Luxuria3.3 ★,3 BHK3 Baths,93-97 sq.m. Carpet Area,3 BHK Apartment in Wagholi,15,₹ 63.26  - 66.06 L
+223,Mulik Luxuria3.3 ★,1 BHK,40 sq.m. Carpet Area,1 BHK Apartment in Wagholi,15,₹ 28.55 L
+224,Rohit Aloha,2 BHK,71 sq.m. Carpet Area,2 BHK Apartment in Wakad,10,₹ 70.01 L
+225,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+226,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+227,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+228,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+229,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+230,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+231,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+232,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+233,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+234,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+235,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+236,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+237,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+238,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+239,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+240,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+241,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+242,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+243,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+244,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+245,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+246,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+247,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+248,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+249,Leisure Town,1 BHK1 Bath,460 sq.ft. (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+250,Leisure Town,1 BHK1 Bath,0.19 grounds (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+251,Park Titan,2 BHK,0.3-0.33 grounds (67-73 sq.m.) Carpet Area,2 BHK Apartment in Marunji,9,₹ 70  - 76 L
+252,Pethkar Siyona4.4 ★,3 BHK3 Baths,0.45-0.47 grounds (101-104 sq.m.) Carpet Area,3 BHK Apartment in Punawale,15,"₹ 1.01  - 1.05 Cr₹ 9,320/sq.ft."
+253,Pethkar Siyona4.4 ★,2 BHK2 Baths,0.35-0.37 grounds (78-82 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 70  - 74 L₹ 8,371/sq.ft."
+254,Ganraj Skydale,2 BHK,0.23-0.28 grounds (50-63 sq.m.) Carpet Area,2 BHK Apartment in Undri,15,₹ 35.47  - 45 L
+255,Ganraj Skydale,1 BHK1 Bath,0.17-0.19 grounds (39-43 sq.m.) Carpet Area,1 BHK Apartment in Undri,15,₹ 27.91  - 30.97 L
+256,Vansh Viva,2 BHK,0.29-0.3 grounds (64-66 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,9,₹ 43.61  - 44.91 L
+257,Vansh Viva,1 BHK,0.19-0.2 grounds (41-43 sq.m.) Carpet Area,1 BHK Apartment in Kiwale,9,₹ 30.65  - 32.15 L
+258,Shubh Nirvana,3 BHK3 Baths,0.47-0.52 grounds (104-116 sq.m.) Carpet Area,3 BHK Apartment in Viman Nagar,31,₹ 1.55  - 1.75 Cr
+259,Bright Aristo,2 BHK2 Baths,0.28 grounds (63 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,5,₹ 42 L
+260,Bright Aristo,1 BHK1 Bath,0.2 grounds (45 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,5,₹ 35 L
+261,Panchshil Towers4.4 ★,3 BHK,0.69-1.42 grounds (153-316 sq.m.) Super built-up Area,3 BHK Apartment in Kharadi,6,"₹ 2.68  - 5.54 Cr₹ 16,265/sq.ft."
+262,Kumar Palmcrest,2 BHK2 Baths,0.32 grounds (72 sq.m.) Carpet Area,2 BHK Apartment in Pisoli,15,Price on Request
+263,Samarth Mrudula Residency,1 BHK,0.16-0.2 grounds (35-46 sq.m.) Carpet Area,1 BHK Apartment in Bhosari,34,"₹ 33  - 38 L₹ 7,807/sq.ft."
+264,Unika,3 BHK,0.44 grounds (99 sq.m.) Carpet Area,3 BHK Apartment in Hadapsar,12,₹ 1.05 Cr
+265,Nivasa Enchante,3 BHK3 Baths,0.36 grounds (79 sq.m.) Carpet Area,3 BHK Apartment in Lohegaon,7,₹ 79.04 L
+266,Nivasa Enchante,2 BHK,0.28-0.32 grounds (62-72 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,7,₹ 57.17  - 65.14 L
+267,Tirupati Nakshatra,2 BHK,0.28 grounds (62 sq.m.) Carpet Area,2 BHK Apartment in Marunji,8,₹ 36.22 L
+268,Tirupati Nakshatra,1 BHK,0.19-0.19 grounds (42-42 sq.m.) Carpet Area,1 BHK Apartment in Marunji,8,₹ 25.1  - 25.29 L
+269,Runal Spacio,3 BHK2 Baths,0.33-0.38 grounds (74-84 sq.m.) Carpet Area,3 BHK Apartment in Kiwale,15,"₹ 72  - 80 L₹ 8,913/sq.ft."
+270,Runal Spacio,2 BHK2 Baths,0.28-0.31 grounds (62-69 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,15,"₹ 62  - 68 L₹ 9,213/sq.ft."
+271,Shapoorji Joyville Hadapsar Annexe4.4 ★,3 BHK,0.37 grounds (83 sq.m.) Carpet Area,3 BHK Apartment in Shewalewadi,15,₹ 94.4 L
+272,Shapoorji Joyville Hadapsar Annexe4.4 ★,2 BHK,0.26-0.3 grounds (58-67 sq.m.) Carpet Area,2 BHK Apartment in Shewalewadi,15,₹ 68.2  - 74.2 L
+273,Shapoorji Joyville Hadapsar Annexe4.4 ★,1 BHK,0.18 grounds (40 sq.m.) Carpet Area,1 BHK Apartment in Shewalewadi,15,₹ 42.02 L
+274,Gulmohar Sky Park,2 BHK,0.26-0.27 grounds (59-60 sq.m.) Carpet Area,2 BHK Apartment in Dhanori,6,₹ 50.67  - 54.64 L
+275,Kumar Peninsula,3 BHK3 Baths,0.41-0.57 grounds (92-127 sq.m.) Carpet Area,3 BHK Apartment in Baner,15,"₹ 1.51  - 2.07 Cr₹ 15,178/sq.ft."
+276,Kalpataru Exquisite,3 BHK,0.47 grounds (104 sq.m.) Super built-up Area,3 BHK Apartment in Wakad,15,"₹ 1.14 Cr₹ 10,160/sq.ft."
+277,Goodwill Meadows4.2 ★,2 BHK2 Baths,0.14 grounds (31 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,30,"₹ 48 L₹ 14,394/sq.ft."
+278,Orchid Homes,3 BHK,0.45 grounds (101 sq.m.) Carpet Area,3 BHK Apartment in Chinchwad,17,₹ 100 L
+279,Orchid Homes,2 BHK,0.33-0.35 grounds (72-78 sq.m.) Carpet Area,2 BHK Apartment in Chinchwad,17,₹ 73.44  - 78.27 L
+280,NG Rathi Vrundavan,2 BHK2 Baths,0.25 grounds (56 sq.m.) Carpet Area,2 BHK Apartment in Vishrantwadi,49,₹ 56 L
+281,Manasi Residency,2 BHK1 Bath,0.24 grounds (53 sq.m.) Carpet Area,2 BHK Apartment in Kondhwa Budruk,29,₹ 47 L
+282,Manasi Residency,1 BHK1 Bath,0.21 grounds (47 sq.m.) Carpet Area,1 BHK Apartment in Kondhwa Budruk,29,₹ 40 L
+283,Townscape Sneh Mithila,2 BHK,0.33 grounds (74 sq.m.) Carpet Area,2 BHK Apartment in Pimple Saudagar,6,₹ 70 L
+284,Mulik Luxuria3.3 ★,2 BHK,0.33-0.34 grounds (73-75 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,15,₹ 50.62  - 52.05 L
+285,Greenville,3 BHK3 Baths,0.41-0.46 grounds (92-103 sq.m.) Carpet Area,3 BHK Apartment in Hadapsar,4,₹ 96.62 L - 1.08 Cr
+286,Unika,2 BHK,0.33 grounds (74 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,12,₹ 78 L
+287,Jhala Group Mahalunge Riviera,3 BHK,0.4-0.41 grounds (89-92 sq.m.) Carpet Area,3 BHK Apartment in Mahalunge,14,₹ 93.5  - 95 L
+288,Rohan VITI,3 BHK,0.44 grounds (99 sq.m.) Carpet Area,3 BHK Apartment in Wakad,6,₹ 1.25 Cr
+289,Rohan VITI,2 BHK,0.33 grounds (74 sq.m.) Carpet Area,2 BHK Apartment in Wakad,6,₹ 93 L
+290,Pride SOHO,3 BHK,0.4 grounds (88 sq.m.) Carpet Area,3 BHK Apartment in Charholi,12,₹ 74.71 L
+291,Pride SOHO,2 BHK,0.33-0.33 grounds (73-73 sq.m.) Carpet Area,2 BHK Apartment in Charholi,12,₹ 60.25  - 60.51 L
+292,JD Gaatha,3 BHK,0.42-0.44 grounds (93-98 sq.m.) Carpet Area,3 BHK Apartment in Lohegaon,8,₹ 71.87  - 75.72 L
+293,JD Gaatha,2 BHK,0.3-0.34 grounds (67-76 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,8,₹ 53.51  - 59.96 L
+294,iLife Upper NIBM,3 BHK,0.43-0.43 grounds (95-96 sq.m.) Carpet Area,3 BHK Apartment in NIBM,14,₹ 84.65  - 85.11 L
+295,iLife Upper NIBM,2 BHK,0.3-0.36 grounds (66-81 sq.m.) Carpet Area,2 BHK Apartment in NIBM,14,₹ 60.83  - 72.89 L
+296,Tikona Srushti,,5.83-9.64 grounds (1301-2149 sq.m.) Plot Area,Residential land / Plot in Hadashi,5,Price on Request
+297,Mulik Luxuria3.3 ★,3 BHK3 Baths,0.42-0.44 grounds (93-98 sq.m.) Carpet Area,3 BHK Apartment in Wagholi,15,₹ 63.26  - 66.06 L
+298,Mulik Luxuria3.3 ★,1 BHK,0.18 grounds (41 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,15,₹ 28.55 L
+299,Rohit Aloha,2 BHK,0.32 grounds (72 sq.m.) Carpet Area,2 BHK Apartment in Wakad,10,₹ 70.01 L
+300,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+301,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+302,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+303,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+304,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+305,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+306,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+307,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+308,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+309,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+310,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+311,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+312,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+313,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+314,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+315,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+316,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+317,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+318,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+319,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+320,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+321,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+322,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+323,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+324,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+325,Leisure Town,1 BHK1 Bath,6.39 aankadam (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+326,Park Titan,2 BHK,10.08-10.96 aankadam (67-73 sq.m.) Carpet Area,2 BHK Apartment in Marunji,9,₹ 70  - 76 L
+327,Pethkar Siyona4.4 ★,3 BHK3 Baths,15.14-15.56 aankadam (101-104 sq.m.) Carpet Area,3 BHK Apartment in Punawale,15,"₹ 1.01  - 1.05 Cr₹ 9,320/sq.ft."
+328,Pethkar Siyona4.4 ★,2 BHK2 Baths,11.67-12.22 aankadam (78-82 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 70  - 74 L₹ 8,371/sq.ft."
+329,Ganraj Skydale,2 BHK,7.51-9.36 aankadam (50-63 sq.m.) Carpet Area,2 BHK Apartment in Undri,15,₹ 35.47  - 45 L
+330,Ganraj Skydale,1 BHK1 Bath,5.76-6.47 aankadam (39-43 sq.m.) Carpet Area,1 BHK Apartment in Undri,15,₹ 27.91  - 30.97 L
+331,Vansh Viva,2 BHK,9.54-9.86 aankadam (64-66 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,9,₹ 43.61  - 44.91 L
+332,Vansh Viva,1 BHK,6.18-6.5 aankadam (41-43 sq.m.) Carpet Area,1 BHK Apartment in Kiwale,9,₹ 30.65  - 32.15 L
+333,Shubh Nirvana,3 BHK3 Baths,15.51-17.33 aankadam (104-116 sq.m.) Carpet Area,3 BHK Apartment in Viman Nagar,31,₹ 1.55  - 1.75 Cr
+334,Bright Aristo,2 BHK2 Baths,9.44 aankadam (63 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,5,₹ 42 L
+335,Bright Aristo,1 BHK1 Bath,6.72 aankadam (45 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,5,₹ 35 L
+336,Panchshil Towers4.4 ★,3 BHK,22.89-47.29 aankadam (153-316 sq.m.) Super built-up Area,3 BHK Apartment in Kharadi,6,"₹ 2.68  - 5.54 Cr₹ 16,265/sq.ft."
+337,Kumar Palmcrest,2 BHK2 Baths,10.82 aankadam (72 sq.m.) Carpet Area,2 BHK Apartment in Pisoli,15,Price on Request
+338,Samarth Mrudula Residency,1 BHK,5.19-6.81 aankadam (35-46 sq.m.) Carpet Area,1 BHK Apartment in Bhosari,34,"₹ 33  - 38 L₹ 7,807/sq.ft."
+339,Unika,3 BHK,14.82 aankadam (99 sq.m.) Carpet Area,3 BHK Apartment in Hadapsar,12,₹ 1.05 Cr
+340,Nivasa Enchante,3 BHK3 Baths,11.86 aankadam (79 sq.m.) Carpet Area,3 BHK Apartment in Lohegaon,7,₹ 79.04 L
+341,Nivasa Enchante,2 BHK,9.33-10.71 aankadam (62-72 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,7,₹ 57.17  - 65.14 L
+342,Tirupati Nakshatra,2 BHK,9.24 aankadam (62 sq.m.) Carpet Area,2 BHK Apartment in Marunji,8,₹ 36.22 L
+343,Tirupati Nakshatra,1 BHK,6.28-6.33 aankadam (42-42 sq.m.) Carpet Area,1 BHK Apartment in Marunji,8,₹ 25.1  - 25.29 L
+344,Runal Spacio,3 BHK2 Baths,11.12-12.57 aankadam (74-84 sq.m.) Carpet Area,3 BHK Apartment in Kiwale,15,"₹ 72  - 80 L₹ 8,913/sq.ft."
+345,Runal Spacio,2 BHK2 Baths,9.33-10.26 aankadam (62-69 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,15,"₹ 62  - 68 L₹ 9,213/sq.ft."
+346,Shapoorji Joyville Hadapsar Annexe4.4 ★,3 BHK,12.42 aankadam (83 sq.m.) Carpet Area,3 BHK Apartment in Shewalewadi,15,₹ 94.4 L
+347,Shapoorji Joyville Hadapsar Annexe4.4 ★,2 BHK,8.6-10.08 aankadam (58-67 sq.m.) Carpet Area,2 BHK Apartment in Shewalewadi,15,₹ 68.2  - 74.2 L
+348,Shapoorji Joyville Hadapsar Annexe4.4 ★,1 BHK,5.97 aankadam (40 sq.m.) Carpet Area,1 BHK Apartment in Shewalewadi,15,₹ 42.02 L
+349,Gulmohar Sky Park,2 BHK,8.76-8.96 aankadam (59-60 sq.m.) Carpet Area,2 BHK Apartment in Dhanori,6,₹ 50.67  - 54.64 L
+350,Kumar Peninsula,3 BHK3 Baths,13.82-18.94 aankadam (92-127 sq.m.) Carpet Area,3 BHK Apartment in Baner,15,"₹ 1.51  - 2.07 Cr₹ 15,178/sq.ft."
+351,Kalpataru Exquisite,3 BHK,15.58 aankadam (104 sq.m.) Super built-up Area,3 BHK Apartment in Wakad,15,"₹ 1.14 Cr₹ 10,160/sq.ft."
+352,Goodwill Meadows4.2 ★,2 BHK2 Baths,4.62 aankadam (31 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,30,"₹ 48 L₹ 14,394/sq.ft."
+353,Orchid Homes,3 BHK,15.15 aankadam (101 sq.m.) Carpet Area,3 BHK Apartment in Chinchwad,17,₹ 100 L
+354,Orchid Homes,2 BHK,10.83-11.6 aankadam (72-78 sq.m.) Carpet Area,2 BHK Apartment in Chinchwad,17,₹ 73.44  - 78.27 L
+355,NG Rathi Vrundavan,2 BHK2 Baths,8.44 aankadam (56 sq.m.) Carpet Area,2 BHK Apartment in Vishrantwadi,49,₹ 56 L
+356,Manasi Residency,2 BHK1 Bath,7.99 aankadam (53 sq.m.) Carpet Area,2 BHK Apartment in Kondhwa Budruk,29,₹ 47 L
+357,Manasi Residency,1 BHK1 Bath,6.99 aankadam (47 sq.m.) Carpet Area,1 BHK Apartment in Kondhwa Budruk,29,₹ 40 L
+358,Townscape Sneh Mithila,2 BHK,11.06 aankadam (74 sq.m.) Carpet Area,2 BHK Apartment in Pimple Saudagar,6,₹ 70 L
+359,Mulik Luxuria3.3 ★,2 BHK,10.92-11.26 aankadam (73-75 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,15,₹ 50.62  - 52.05 L
+360,Greenville,3 BHK3 Baths,13.78-15.4 aankadam (92-103 sq.m.) Carpet Area,3 BHK Apartment in Hadapsar,4,₹ 96.62 L - 1.08 Cr
+361,Unika,2 BHK,11.04 aankadam (74 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,12,₹ 78 L
+362,Jhala Group Mahalunge Riviera,3 BHK,13.26-13.74 aankadam (89-92 sq.m.) Carpet Area,3 BHK Apartment in Mahalunge,14,₹ 93.5  - 95 L
+363,Rohan VITI,3 BHK,14.79 aankadam (99 sq.m.) Carpet Area,3 BHK Apartment in Wakad,6,₹ 1.25 Cr
+364,Rohan VITI,2 BHK,11.08 aankadam (74 sq.m.) Carpet Area,2 BHK Apartment in Wakad,6,₹ 93 L
+365,Pride SOHO,3 BHK,13.19 aankadam (88 sq.m.) Carpet Area,3 BHK Apartment in Charholi,12,₹ 74.71 L
+366,Pride SOHO,2 BHK,10.87-10.92 aankadam (73-73 sq.m.) Carpet Area,2 BHK Apartment in Charholi,12,₹ 60.25  - 60.51 L
+367,JD Gaatha,3 BHK,13.86-14.67 aankadam (93-98 sq.m.) Carpet Area,3 BHK Apartment in Lohegaon,8,₹ 71.87  - 75.72 L
+368,JD Gaatha,2 BHK,10.03-11.37 aankadam (67-76 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,8,₹ 53.51  - 59.96 L
+369,iLife Upper NIBM,3 BHK,14.24-14.32 aankadam (95-96 sq.m.) Carpet Area,3 BHK Apartment in NIBM,14,₹ 84.65  - 85.11 L
+370,iLife Upper NIBM,2 BHK,9.93-12.11 aankadam (66-81 sq.m.) Carpet Area,2 BHK Apartment in NIBM,14,₹ 60.83  - 72.89 L
+371,Tikona Srushti,,194.44-321.31 aankadam (1301-2149 sq.m.) Plot Area,Residential land / Plot in Hadashi,5,Price on Request
+372,Mulik Luxuria3.3 ★,3 BHK3 Baths,13.94-14.61 aankadam (93-98 sq.m.) Carpet Area,3 BHK Apartment in Wagholi,15,₹ 63.26  - 66.06 L
+373,Mulik Luxuria3.3 ★,1 BHK,6.11 aankadam (41 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,15,₹ 28.55 L
+374,Rohit Aloha,2 BHK,10.69 aankadam (72 sq.m.) Carpet Area,2 BHK Apartment in Wakad,10,₹ 70.01 L
+375,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+376,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+377,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+378,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+379,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+380,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+381,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+382,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+383,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+384,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+385,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+386,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+387,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+388,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+389,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+390,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+391,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+392,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+393,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+394,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+395,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+396,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+397,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+398,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+399,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+400,Leisure Town,1 BHK1 Bath,0.04 rood (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+401,Park Titan,2 BHK,0.07-0.07 rood (67-73 sq.m.) Carpet Area,2 BHK Apartment in Marunji,9,₹ 70  - 76 L
+402,Pethkar Siyona4.4 ★,3 BHK3 Baths,0.1-0.1 rood (101-104 sq.m.) Carpet Area,3 BHK Apartment in Punawale,15,"₹ 1.01  - 1.05 Cr₹ 9,320/sq.ft."
+403,Pethkar Siyona4.4 ★,2 BHK2 Baths,0.08-0.08 rood (78-82 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 70  - 74 L₹ 8,371/sq.ft."
+404,Ganraj Skydale,2 BHK,0.05-0.06 rood (50-63 sq.m.) Carpet Area,2 BHK Apartment in Undri,15,₹ 35.47  - 45 L
+405,Ganraj Skydale,1 BHK1 Bath,0.04-0.04 rood (39-43 sq.m.) Carpet Area,1 BHK Apartment in Undri,15,₹ 27.91  - 30.97 L
+406,Vansh Viva,2 BHK,0.06-0.07 rood (64-66 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,9,₹ 43.61  - 44.91 L
+407,Vansh Viva,1 BHK,0.04-0.04 rood (41-43 sq.m.) Carpet Area,1 BHK Apartment in Kiwale,9,₹ 30.65  - 32.15 L
+408,Shubh Nirvana,3 BHK3 Baths,0.1-0.11 rood (104-116 sq.m.) Carpet Area,3 BHK Apartment in Viman Nagar,31,₹ 1.55  - 1.75 Cr
+409,Bright Aristo,2 BHK2 Baths,0.06 rood (63 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,5,₹ 42 L
+410,Bright Aristo,1 BHK1 Bath,0.04 rood (45 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,5,₹ 35 L
+411,Panchshil Towers4.4 ★,3 BHK,0.15-0.31 rood (153-316 sq.m.) Super built-up Area,3 BHK Apartment in Kharadi,6,"₹ 2.68  - 5.54 Cr₹ 16,265/sq.ft."
+412,Kumar Palmcrest,2 BHK2 Baths,0.07 rood (72 sq.m.) Carpet Area,2 BHK Apartment in Pisoli,15,Price on Request
+413,Samarth Mrudula Residency,1 BHK,0.03-0.04 rood (35-46 sq.m.) Carpet Area,1 BHK Apartment in Bhosari,34,"₹ 33  - 38 L₹ 7,807/sq.ft."
+414,Unika,3 BHK,0.1 rood (99 sq.m.) Carpet Area,3 BHK Apartment in Hadapsar,12,₹ 1.05 Cr
+415,Nivasa Enchante,3 BHK3 Baths,0.08 rood (79 sq.m.) Carpet Area,3 BHK Apartment in Lohegaon,7,₹ 79.04 L
+416,Nivasa Enchante,2 BHK,0.06-0.07 rood (62-72 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,7,₹ 57.17  - 65.14 L
+417,Tirupati Nakshatra,2 BHK,0.06 rood (62 sq.m.) Carpet Area,2 BHK Apartment in Marunji,8,₹ 36.22 L
+418,Tirupati Nakshatra,1 BHK,0.04-0.04 rood (42-42 sq.m.) Carpet Area,1 BHK Apartment in Marunji,8,₹ 25.1  - 25.29 L
+419,Runal Spacio,3 BHK2 Baths,0.07-0.08 rood (74-84 sq.m.) Carpet Area,3 BHK Apartment in Kiwale,15,"₹ 72  - 80 L₹ 8,913/sq.ft."
+420,Runal Spacio,2 BHK2 Baths,0.06-0.07 rood (62-69 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,15,"₹ 62  - 68 L₹ 9,213/sq.ft."
+421,Shapoorji Joyville Hadapsar Annexe4.4 ★,3 BHK,0.08 rood (83 sq.m.) Carpet Area,3 BHK Apartment in Shewalewadi,15,₹ 94.4 L
+422,Shapoorji Joyville Hadapsar Annexe4.4 ★,2 BHK,0.06-0.07 rood (58-67 sq.m.) Carpet Area,2 BHK Apartment in Shewalewadi,15,₹ 68.2  - 74.2 L
+423,Shapoorji Joyville Hadapsar Annexe4.4 ★,1 BHK,0.04 rood (40 sq.m.) Carpet Area,1 BHK Apartment in Shewalewadi,15,₹ 42.02 L
+424,Gulmohar Sky Park,2 BHK,0.06-0.06 rood (59-60 sq.m.) Carpet Area,2 BHK Apartment in Dhanori,6,₹ 50.67  - 54.64 L
+425,Kumar Peninsula,3 BHK3 Baths,0.09-0.13 rood (92-127 sq.m.) Carpet Area,3 BHK Apartment in Baner,15,"₹ 1.51  - 2.07 Cr₹ 15,178/sq.ft."
+426,Kalpataru Exquisite,3 BHK,0.1 rood (104 sq.m.) Super built-up Area,3 BHK Apartment in Wakad,15,"₹ 1.14 Cr₹ 10,160/sq.ft."
+427,Goodwill Meadows4.2 ★,2 BHK2 Baths,0.03 rood (31 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,30,"₹ 48 L₹ 14,394/sq.ft."
+428,Orchid Homes,3 BHK,0.1 rood (101 sq.m.) Carpet Area,3 BHK Apartment in Chinchwad,17,₹ 100 L
+429,Orchid Homes,2 BHK,0.07-0.08 rood (72-78 sq.m.) Carpet Area,2 BHK Apartment in Chinchwad,17,₹ 73.44  - 78.27 L
+430,NG Rathi Vrundavan,2 BHK2 Baths,0.06 rood (56 sq.m.) Carpet Area,2 BHK Apartment in Vishrantwadi,49,₹ 56 L
+431,Manasi Residency,2 BHK1 Bath,0.05 rood (53 sq.m.) Carpet Area,2 BHK Apartment in Kondhwa Budruk,29,₹ 47 L
+432,Manasi Residency,1 BHK1 Bath,0.05 rood (47 sq.m.) Carpet Area,1 BHK Apartment in Kondhwa Budruk,29,₹ 40 L
+433,Townscape Sneh Mithila,2 BHK,0.07 rood (74 sq.m.) Carpet Area,2 BHK Apartment in Pimple Saudagar,6,₹ 70 L
+434,Mulik Luxuria3.3 ★,2 BHK,0.07-0.07 rood (73-75 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,15,₹ 50.62  - 52.05 L
+435,Greenville,3 BHK3 Baths,0.09-0.1 rood (92-103 sq.m.) Carpet Area,3 BHK Apartment in Hadapsar,4,₹ 96.62 L - 1.08 Cr
+436,Unika,2 BHK,0.07 rood (74 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,12,₹ 78 L
+437,Jhala Group Mahalunge Riviera,3 BHK,0.09-0.09 rood (89-92 sq.m.) Carpet Area,3 BHK Apartment in Mahalunge,14,₹ 93.5  - 95 L
+438,Rohan VITI,3 BHK,0.1 rood (99 sq.m.) Carpet Area,3 BHK Apartment in Wakad,6,₹ 1.25 Cr
+439,Rohan VITI,2 BHK,0.07 rood (74 sq.m.) Carpet Area,2 BHK Apartment in Wakad,6,₹ 93 L
+440,Pride SOHO,3 BHK,0.09 rood (88 sq.m.) Carpet Area,3 BHK Apartment in Charholi,12,₹ 74.71 L
+441,Pride SOHO,2 BHK,0.07-0.07 rood (73-73 sq.m.) Carpet Area,2 BHK Apartment in Charholi,12,₹ 60.25  - 60.51 L
+442,JD Gaatha,3 BHK,0.09-0.1 rood (93-98 sq.m.) Carpet Area,3 BHK Apartment in Lohegaon,8,₹ 71.87  - 75.72 L
+443,JD Gaatha,2 BHK,0.07-0.08 rood (67-76 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,8,₹ 53.51  - 59.96 L
+444,iLife Upper NIBM,3 BHK,0.09-0.09 rood (95-96 sq.m.) Carpet Area,3 BHK Apartment in NIBM,14,₹ 84.65  - 85.11 L
+445,iLife Upper NIBM,2 BHK,0.07-0.08 rood (66-81 sq.m.) Carpet Area,2 BHK Apartment in NIBM,14,₹ 60.83  - 72.89 L
+446,Tikona Srushti,,1.29-2.12 rood (1301-2149 sq.m.) Plot Area,Residential land / Plot in Hadashi,5,Price on Request
+447,Mulik Luxuria3.3 ★,3 BHK3 Baths,0.09-0.1 rood (93-98 sq.m.) Carpet Area,3 BHK Apartment in Wagholi,15,₹ 63.26  - 66.06 L
+448,Mulik Luxuria3.3 ★,1 BHK,0.04 rood (41 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,15,₹ 28.55 L
+449,Rohit Aloha,2 BHK,0.07 rood (72 sq.m.) Carpet Area,2 BHK Apartment in Wakad,10,₹ 70.01 L
+450,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+451,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+452,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+453,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+454,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+455,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+456,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+457,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+458,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+459,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+460,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+461,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+462,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+463,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+464,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+465,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+466,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+467,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+468,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+469,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+470,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+471,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+472,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+473,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+474,Leisure Town,1 BHK1 Bath,460 sq.ft. (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+475,Leisure Town,1 BHK1 Bath,1.02 chataks (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+476,Park Titan,2 BHK,1.61-1.75 chataks (67-73 sq.m.) Carpet Area,2 BHK Apartment in Marunji,9,₹ 70  - 76 L
+477,Pethkar Siyona4.4 ★,3 BHK3 Baths,2.42-2.49 chataks (101-104 sq.m.) Carpet Area,3 BHK Apartment in Punawale,15,"₹ 1.01  - 1.05 Cr₹ 9,320/sq.ft."
+478,Pethkar Siyona4.4 ★,2 BHK2 Baths,1.87-1.96 chataks (78-82 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 70  - 74 L₹ 8,371/sq.ft."
+479,Ganraj Skydale,2 BHK,1.2-1.5 chataks (50-63 sq.m.) Carpet Area,2 BHK Apartment in Undri,15,₹ 35.47  - 45 L
+480,Ganraj Skydale,1 BHK1 Bath,0.92-1.04 chataks (39-43 sq.m.) Carpet Area,1 BHK Apartment in Undri,15,₹ 27.91  - 30.97 L
+481,Vansh Viva,2 BHK,1.53-1.58 chataks (64-66 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,9,₹ 43.61  - 44.91 L
+482,Vansh Viva,1 BHK,0.99-1.04 chataks (41-43 sq.m.) Carpet Area,1 BHK Apartment in Kiwale,9,₹ 30.65  - 32.15 L
+483,Shubh Nirvana,3 BHK3 Baths,2.48-2.77 chataks (104-116 sq.m.) Carpet Area,3 BHK Apartment in Viman Nagar,31,₹ 1.55  - 1.75 Cr
+484,Bright Aristo,2 BHK2 Baths,1.51 chataks (63 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,5,₹ 42 L
+485,Bright Aristo,1 BHK1 Bath,1.08 chataks (45 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,5,₹ 35 L
+486,Panchshil Towers4.4 ★,3 BHK,3.66-7.57 chataks (153-316 sq.m.) Super built-up Area,3 BHK Apartment in Kharadi,6,"₹ 2.68  - 5.54 Cr₹ 16,265/sq.ft."
+487,Kumar Palmcrest,2 BHK2 Baths,1.73 chataks (72 sq.m.) Carpet Area,2 BHK Apartment in Pisoli,15,Price on Request
+488,Samarth Mrudula Residency,1 BHK,0.83-1.09 chataks (35-46 sq.m.) Carpet Area,1 BHK Apartment in Bhosari,34,"₹ 33  - 38 L₹ 7,807/sq.ft."
+489,Unika,3 BHK,2.37 chataks (99 sq.m.) Carpet Area,3 BHK Apartment in Hadapsar,12,₹ 1.05 Cr
+490,Nivasa Enchante,3 BHK3 Baths,1.9 chataks (79 sq.m.) Carpet Area,3 BHK Apartment in Lohegaon,7,₹ 79.04 L
+491,Nivasa Enchante,2 BHK,1.49-1.71 chataks (62-72 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,7,₹ 57.17  - 65.14 L
+492,Tirupati Nakshatra,2 BHK,1.48 chataks (62 sq.m.) Carpet Area,2 BHK Apartment in Marunji,8,₹ 36.22 L
+493,Tirupati Nakshatra,1 BHK,1-1.01 chataks (42-42 sq.m.) Carpet Area,1 BHK Apartment in Marunji,8,₹ 25.1  - 25.29 L
+494,Runal Spacio,3 BHK2 Baths,1.78-2.01 chataks (74-84 sq.m.) Carpet Area,3 BHK Apartment in Kiwale,15,"₹ 72  - 80 L₹ 8,913/sq.ft."
+495,Runal Spacio,2 BHK2 Baths,1.49-1.64 chataks (62-69 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,15,"₹ 62  - 68 L₹ 9,213/sq.ft."
+496,Shapoorji Joyville Hadapsar Annexe4.4 ★,3 BHK,1.99 chataks (83 sq.m.) Carpet Area,3 BHK Apartment in Shewalewadi,15,₹ 94.4 L
+497,Shapoorji Joyville Hadapsar Annexe4.4 ★,2 BHK,1.38-1.61 chataks (58-67 sq.m.) Carpet Area,2 BHK Apartment in Shewalewadi,15,₹ 68.2  - 74.2 L
+498,Shapoorji Joyville Hadapsar Annexe4.4 ★,1 BHK,0.96 chataks (40 sq.m.) Carpet Area,1 BHK Apartment in Shewalewadi,15,₹ 42.02 L
+499,Gulmohar Sky Park,2 BHK,1.4-1.43 chataks (59-60 sq.m.) Carpet Area,2 BHK Apartment in Dhanori,6,₹ 50.67  - 54.64 L
+500,Kumar Peninsula,3 BHK3 Baths,2.21-3.03 chataks (92-127 sq.m.) Carpet Area,3 BHK Apartment in Baner,15,"₹ 1.51  - 2.07 Cr₹ 15,178/sq.ft."
+501,Kalpataru Exquisite,3 BHK,2.49 chataks (104 sq.m.) Super built-up Area,3 BHK Apartment in Wakad,15,"₹ 1.14 Cr₹ 10,160/sq.ft."
+502,Goodwill Meadows4.2 ★,2 BHK2 Baths,0.74 chataks (31 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,30,"₹ 48 L₹ 14,394/sq.ft."
+503,Orchid Homes,3 BHK,2.42 chataks (101 sq.m.) Carpet Area,3 BHK Apartment in Chinchwad,17,₹ 100 L
+504,Orchid Homes,2 BHK,1.73-1.86 chataks (72-78 sq.m.) Carpet Area,2 BHK Apartment in Chinchwad,17,₹ 73.44  - 78.27 L
+505,NG Rathi Vrundavan,2 BHK2 Baths,1.35 chataks (56 sq.m.) Carpet Area,2 BHK Apartment in Vishrantwadi,49,₹ 56 L
+506,Manasi Residency,2 BHK1 Bath,1.28 chataks (53 sq.m.) Carpet Area,2 BHK Apartment in Kondhwa Budruk,29,₹ 47 L
+507,Manasi Residency,1 BHK1 Bath,1.12 chataks (47 sq.m.) Carpet Area,1 BHK Apartment in Kondhwa Budruk,29,₹ 40 L
+508,Townscape Sneh Mithila,2 BHK,1.77 chataks (74 sq.m.) Carpet Area,2 BHK Apartment in Pimple Saudagar,6,₹ 70 L
+509,Mulik Luxuria3.3 ★,2 BHK,1.75-1.8 chataks (73-75 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,15,₹ 50.62  - 52.05 L
+510,Greenville,3 BHK3 Baths,2.2-2.46 chataks (92-103 sq.m.) Carpet Area,3 BHK Apartment in Hadapsar,4,₹ 96.62 L - 1.08 Cr
+511,Unika,2 BHK,1.77 chataks (74 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,12,₹ 78 L
+512,Jhala Group Mahalunge Riviera,3 BHK,2.12-2.2 chataks (89-92 sq.m.) Carpet Area,3 BHK Apartment in Mahalunge,14,₹ 93.5  - 95 L
+513,Rohan VITI,3 BHK,2.37 chataks (99 sq.m.) Carpet Area,3 BHK Apartment in Wakad,6,₹ 1.25 Cr
+514,Rohan VITI,2 BHK,1.77 chataks (74 sq.m.) Carpet Area,2 BHK Apartment in Wakad,6,₹ 93 L
+515,Pride SOHO,3 BHK,2.11 chataks (88 sq.m.) Carpet Area,3 BHK Apartment in Charholi,12,₹ 74.71 L
+516,Pride SOHO,2 BHK,1.74-1.75 chataks (73-73 sq.m.) Carpet Area,2 BHK Apartment in Charholi,12,₹ 60.25  - 60.51 L
+517,JD Gaatha,3 BHK,2.22-2.35 chataks (93-98 sq.m.) Carpet Area,3 BHK Apartment in Lohegaon,8,₹ 71.87  - 75.72 L
+518,JD Gaatha,2 BHK,1.6-1.82 chataks (67-76 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,8,₹ 53.51  - 59.96 L
+519,iLife Upper NIBM,3 BHK,2.28-2.29 chataks (95-96 sq.m.) Carpet Area,3 BHK Apartment in NIBM,14,₹ 84.65  - 85.11 L
+520,iLife Upper NIBM,2 BHK,1.59-1.94 chataks (66-81 sq.m.) Carpet Area,2 BHK Apartment in NIBM,14,₹ 60.83  - 72.89 L
+521,Tikona Srushti,,31.11-51.41 chataks (1301-2149 sq.m.) Plot Area,Residential land / Plot in Hadashi,5,Price on Request
+522,Mulik Luxuria3.3 ★,3 BHK3 Baths,2.23-2.34 chataks (93-98 sq.m.) Carpet Area,3 BHK Apartment in Wagholi,15,₹ 63.26  - 66.06 L
+523,Mulik Luxuria3.3 ★,1 BHK,0.98 chataks (41 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,15,₹ 28.55 L
+524,Rohit Aloha,2 BHK,1.71 chataks (72 sq.m.) Carpet Area,2 BHK Apartment in Wakad,10,₹ 70.01 L
+525,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+526,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+527,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+528,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+529,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+530,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+531,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+532,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+533,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+534,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+535,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+536,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+537,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+538,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+539,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+540,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+541,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+542,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+543,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+544,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+545,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+546,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+547,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+548,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+549,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+550,Leisure Town,1 BHK1 Bath,1.69 perch (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+551,Park Titan,2 BHK,2.67-2.9 perch (67-73 sq.m.) Carpet Area,2 BHK Apartment in Marunji,9,₹ 70  - 76 L
+552,Pethkar Siyona4.4 ★,3 BHK3 Baths,4-4.11 perch (101-104 sq.m.) Carpet Area,3 BHK Apartment in Punawale,15,"₹ 1.01  - 1.05 Cr₹ 9,320/sq.ft."
+553,Pethkar Siyona4.4 ★,2 BHK2 Baths,3.09-3.23 perch (78-82 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 70  - 74 L₹ 8,371/sq.ft."
+554,Ganraj Skydale,2 BHK,1.99-2.48 perch (50-63 sq.m.) Carpet Area,2 BHK Apartment in Undri,15,₹ 35.47  - 45 L
+555,Ganraj Skydale,1 BHK1 Bath,1.52-1.71 perch (39-43 sq.m.) Carpet Area,1 BHK Apartment in Undri,15,₹ 27.91  - 30.97 L
+556,Vansh Viva,2 BHK,2.52-2.61 perch (64-66 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,9,₹ 43.61  - 44.91 L
+557,Vansh Viva,1 BHK,1.63-1.72 perch (41-43 sq.m.) Carpet Area,1 BHK Apartment in Kiwale,9,₹ 30.65  - 32.15 L
+558,Shubh Nirvana,3 BHK3 Baths,4.1-4.58 perch (104-116 sq.m.) Carpet Area,3 BHK Apartment in Viman Nagar,31,₹ 1.55  - 1.75 Cr
+559,Bright Aristo,2 BHK2 Baths,2.5 perch (63 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,5,₹ 42 L
+560,Bright Aristo,1 BHK1 Bath,1.78 perch (45 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,5,₹ 35 L
+561,Panchshil Towers4.4 ★,3 BHK,6.05-12.51 perch (153-316 sq.m.) Super built-up Area,3 BHK Apartment in Kharadi,6,"₹ 2.68  - 5.54 Cr₹ 16,265/sq.ft."
+562,Kumar Palmcrest,2 BHK2 Baths,2.86 perch (72 sq.m.) Carpet Area,2 BHK Apartment in Pisoli,15,Price on Request
+563,Samarth Mrudula Residency,1 BHK,1.37-1.8 perch (35-46 sq.m.) Carpet Area,1 BHK Apartment in Bhosari,34,"₹ 33  - 38 L₹ 7,807/sq.ft."
+564,Unika,3 BHK,3.92 perch (99 sq.m.) Carpet Area,3 BHK Apartment in Hadapsar,12,₹ 1.05 Cr
+565,Nivasa Enchante,3 BHK3 Baths,3.14 perch (79 sq.m.) Carpet Area,3 BHK Apartment in Lohegaon,7,₹ 79.04 L
+566,Nivasa Enchante,2 BHK,2.47-2.83 perch (62-72 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,7,₹ 57.17  - 65.14 L
+567,Tirupati Nakshatra,2 BHK,2.44 perch (62 sq.m.) Carpet Area,2 BHK Apartment in Marunji,8,₹ 36.22 L
+568,Tirupati Nakshatra,1 BHK,1.66-1.67 perch (42-42 sq.m.) Carpet Area,1 BHK Apartment in Marunji,8,₹ 25.1  - 25.29 L
+569,Runal Spacio,3 BHK2 Baths,2.94-3.32 perch (74-84 sq.m.) Carpet Area,3 BHK Apartment in Kiwale,15,"₹ 72  - 80 L₹ 8,913/sq.ft."
+570,Runal Spacio,2 BHK2 Baths,2.47-2.71 perch (62-69 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,15,"₹ 62  - 68 L₹ 9,213/sq.ft."
+571,Shapoorji Joyville Hadapsar Annexe4.4 ★,3 BHK,3.28 perch (83 sq.m.) Carpet Area,3 BHK Apartment in Shewalewadi,15,₹ 94.4 L
+572,Shapoorji Joyville Hadapsar Annexe4.4 ★,2 BHK,2.27-2.67 perch (58-67 sq.m.) Carpet Area,2 BHK Apartment in Shewalewadi,15,₹ 68.2  - 74.2 L
+573,Shapoorji Joyville Hadapsar Annexe4.4 ★,1 BHK,1.58 perch (40 sq.m.) Carpet Area,1 BHK Apartment in Shewalewadi,15,₹ 42.02 L
+574,Gulmohar Sky Park,2 BHK,2.32-2.37 perch (59-60 sq.m.) Carpet Area,2 BHK Apartment in Dhanori,6,₹ 50.67  - 54.64 L
+575,Kumar Peninsula,3 BHK3 Baths,3.65-5.01 perch (92-127 sq.m.) Carpet Area,3 BHK Apartment in Baner,15,"₹ 1.51  - 2.07 Cr₹ 15,178/sq.ft."
+576,Kalpataru Exquisite,3 BHK,4.12 perch (104 sq.m.) Super built-up Area,3 BHK Apartment in Wakad,15,"₹ 1.14 Cr₹ 10,160/sq.ft."
+577,Goodwill Meadows4.2 ★,2 BHK2 Baths,1.22 perch (31 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,30,"₹ 48 L₹ 14,394/sq.ft."
+578,Orchid Homes,3 BHK,4.01 perch (101 sq.m.) Carpet Area,3 BHK Apartment in Chinchwad,17,₹ 100 L
+579,Orchid Homes,2 BHK,2.87-3.07 perch (72-78 sq.m.) Carpet Area,2 BHK Apartment in Chinchwad,17,₹ 73.44  - 78.27 L
+580,NG Rathi Vrundavan,2 BHK2 Baths,2.23 perch (56 sq.m.) Carpet Area,2 BHK Apartment in Vishrantwadi,49,₹ 56 L
+581,Manasi Residency,2 BHK1 Bath,2.11 perch (53 sq.m.) Carpet Area,2 BHK Apartment in Kondhwa Budruk,29,₹ 47 L
+582,Manasi Residency,1 BHK1 Bath,1.85 perch (47 sq.m.) Carpet Area,1 BHK Apartment in Kondhwa Budruk,29,₹ 40 L
+583,Townscape Sneh Mithila,2 BHK,2.92 perch (74 sq.m.) Carpet Area,2 BHK Apartment in Pimple Saudagar,6,₹ 70 L
+584,Mulik Luxuria3.3 ★,2 BHK,2.89-2.98 perch (73-75 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,15,₹ 50.62  - 52.05 L
+585,Greenville,3 BHK3 Baths,3.64-4.07 perch (92-103 sq.m.) Carpet Area,3 BHK Apartment in Hadapsar,4,₹ 96.62 L - 1.08 Cr
+586,Unika,2 BHK,2.92 perch (74 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,12,₹ 78 L
+587,Jhala Group Mahalunge Riviera,3 BHK,3.51-3.63 perch (89-92 sq.m.) Carpet Area,3 BHK Apartment in Mahalunge,14,₹ 93.5  - 95 L
+588,Rohan VITI,3 BHK,3.91 perch (99 sq.m.) Carpet Area,3 BHK Apartment in Wakad,6,₹ 1.25 Cr
+589,Rohan VITI,2 BHK,2.93 perch (74 sq.m.) Carpet Area,2 BHK Apartment in Wakad,6,₹ 93 L
+590,Pride SOHO,3 BHK,3.49 perch (88 sq.m.) Carpet Area,3 BHK Apartment in Charholi,12,₹ 74.71 L
+591,Pride SOHO,2 BHK,2.88-2.89 perch (73-73 sq.m.) Carpet Area,2 BHK Apartment in Charholi,12,₹ 60.25  - 60.51 L
+592,JD Gaatha,3 BHK,3.67-3.88 perch (93-98 sq.m.) Carpet Area,3 BHK Apartment in Lohegaon,8,₹ 71.87  - 75.72 L
+593,JD Gaatha,2 BHK,2.65-3.01 perch (67-76 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,8,₹ 53.51  - 59.96 L
+594,iLife Upper NIBM,3 BHK,3.76-3.79 perch (95-96 sq.m.) Carpet Area,3 BHK Apartment in NIBM,14,₹ 84.65  - 85.11 L
+595,iLife Upper NIBM,2 BHK,2.63-3.2 perch (66-81 sq.m.) Carpet Area,2 BHK Apartment in NIBM,14,₹ 60.83  - 72.89 L
+596,Tikona Srushti,,51.42-84.97 perch (1301-2149 sq.m.) Plot Area,Residential land / Plot in Hadashi,5,Price on Request
+597,Mulik Luxuria3.3 ★,3 BHK3 Baths,3.69-3.86 perch (93-98 sq.m.) Carpet Area,3 BHK Apartment in Wagholi,15,₹ 63.26  - 66.06 L
+598,Mulik Luxuria3.3 ★,1 BHK,1.62 perch (41 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,15,₹ 28.55 L
+599,Rohit Aloha,2 BHK,2.83 perch (72 sq.m.) Carpet Area,2 BHK Apartment in Wakad,10,₹ 70.01 L
+600,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+601,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+602,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+603,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+604,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+605,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+606,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+607,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+608,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+609,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+610,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+611,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+612,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+613,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+614,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+615,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+616,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+617,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+618,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+619,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+620,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+621,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+622,Leisure Town,1 BHK1 Bath,460 sq.ft. (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+623,Park Titan,2 BHK,726-789 sq.ft. (67-73 sq.m.) Carpet Area,2 BHK Apartment in Marunji,9,₹ 70  - 76 L
+624,Leisure Town,1 BHK1 Bath,0.42 guntha (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+625,Park Titan,2 BHK,0.67-0.72 guntha (67-73 sq.m.) Carpet Area,2 BHK Apartment in Marunji,9,₹ 70  - 76 L
+626,Pethkar Siyona4.4 ★,3 BHK3 Baths,1-1.03 guntha (101-104 sq.m.) Carpet Area,3 BHK Apartment in Punawale,15,"₹ 1.01  - 1.05 Cr₹ 9,320/sq.ft."
+627,Pethkar Siyona4.4 ★,2 BHK2 Baths,0.77-0.81 guntha (78-82 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 70  - 74 L₹ 8,371/sq.ft."
+628,Ganraj Skydale,2 BHK,0.5-0.62 guntha (50-63 sq.m.) Carpet Area,2 BHK Apartment in Undri,15,₹ 35.47  - 45 L
+629,Ganraj Skydale,1 BHK1 Bath,0.38-0.43 guntha (39-43 sq.m.) Carpet Area,1 BHK Apartment in Undri,15,₹ 27.91  - 30.97 L
+630,Vansh Viva,2 BHK,0.63-0.65 guntha (64-66 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,9,₹ 43.61  - 44.91 L
+631,Vansh Viva,1 BHK,0.41-0.43 guntha (41-43 sq.m.) Carpet Area,1 BHK Apartment in Kiwale,9,₹ 30.65  - 32.15 L
+632,Shubh Nirvana,3 BHK3 Baths,1.03-1.15 guntha (104-116 sq.m.) Carpet Area,3 BHK Apartment in Viman Nagar,31,₹ 1.55  - 1.75 Cr
+633,Bright Aristo,2 BHK2 Baths,0.62 guntha (63 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,5,₹ 42 L
+634,Bright Aristo,1 BHK1 Bath,0.44 guntha (45 sq.m.) Carpet Area,1 BHK Apartment in Wagholi,5,₹ 35 L
+635,Panchshil Towers4.4 ★,3 BHK,1.51-3.13 guntha (153-316 sq.m.) Super built-up Area,3 BHK Apartment in Kharadi,6,"₹ 2.68  - 5.54 Cr₹ 16,265/sq.ft."
+636,Kumar Palmcrest,2 BHK2 Baths,0.72 guntha (72 sq.m.) Carpet Area,2 BHK Apartment in Pisoli,15,Price on Request
+637,Samarth Mrudula Residency,1 BHK,0.34-0.45 guntha (35-46 sq.m.) Carpet Area,1 BHK Apartment in Bhosari,34,"₹ 33  - 38 L₹ 7,807/sq.ft."
+638,Unika,3 BHK,0.98 guntha (99 sq.m.) Carpet Area,3 BHK Apartment in Hadapsar,12,₹ 1.05 Cr
+639,Nivasa Enchante,3 BHK3 Baths,0.78 guntha (79 sq.m.) Carpet Area,3 BHK Apartment in Lohegaon,7,₹ 79.04 L
+640,Nivasa Enchante,2 BHK,0.62-0.71 guntha (62-72 sq.m.) Carpet Area,2 BHK Apartment in Lohegaon,7,₹ 57.17  - 65.14 L
+641,Tirupati Nakshatra,2 BHK,0.61 guntha (62 sq.m.) Carpet Area,2 BHK Apartment in Marunji,8,₹ 36.22 L
+642,Tirupati Nakshatra,1 BHK,0.42-0.42 guntha (42-42 sq.m.) Carpet Area,1 BHK Apartment in Marunji,8,₹ 25.1  - 25.29 L
+643,Runal Spacio,3 BHK2 Baths,0.74-0.83 guntha (74-84 sq.m.) Carpet Area,3 BHK Apartment in Kiwale,15,"₹ 72  - 80 L₹ 8,913/sq.ft."
+644,Runal Spacio,2 BHK2 Baths,0.62-0.68 guntha (62-69 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,15,"₹ 62  - 68 L₹ 9,213/sq.ft."
+645,Shapoorji Joyville Hadapsar Annexe4.4 ★,3 BHK,0.82 guntha (83 sq.m.) Carpet Area,3 BHK Apartment in Shewalewadi,15,₹ 94.4 L
+646,Shapoorji Joyville Hadapsar Annexe4.4 ★,2 BHK,0.57-0.67 guntha (58-67 sq.m.) Carpet Area,2 BHK Apartment in Shewalewadi,15,₹ 68.2  - 74.2 L
+647,Shapoorji Joyville Hadapsar Annexe4.4 ★,1 BHK,0.39 guntha (40 sq.m.) Carpet Area,1 BHK Apartment in Shewalewadi,15,₹ 42.02 L
+648,Gulmohar Sky Park,2 BHK,0.58-0.59 guntha (59-60 sq.m.) Carpet Area,2 BHK Apartment in Dhanori,6,₹ 50.67  - 54.64 L
+649,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+650,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+651,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+652,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+653,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+654,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+655,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+656,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+657,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+658,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+659,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+660,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+661,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+662,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+663,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+664,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+665,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+666,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+667,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+668,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+669,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+670,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+671,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+672,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+673,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+674,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+675,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+676,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+677,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+678,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+679,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+680,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+681,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+682,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+683,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+684,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+685,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+686,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+687,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+688,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+689,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+690,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+691,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+692,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+693,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+694,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+695,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+696,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+697,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+698,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+699,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+700,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+701,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+702,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+703,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+704,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+705,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+706,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+707,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+708,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+709,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+710,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+711,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+712,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+713,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+714,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+715,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+716,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+717,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+718,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+719,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+720,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+721,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+722,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+723,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+724,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+725,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+726,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+727,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+728,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+729,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+730,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+731,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+732,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+733,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+734,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+735,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+736,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+737,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+738,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+739,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+740,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+741,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+742,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+743,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+744,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+745,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+746,Leisure Town,1 BHK1 Bath,460 sq.ft. (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+747,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+748,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+749,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+750,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+751,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+752,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+753,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+754,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+755,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+756,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+757,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+758,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+759,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+760,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+761,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+762,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+763,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+764,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+765,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+766,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+767,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+768,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+769,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+770,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+771,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+772,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+773,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+774,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+775,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+776,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+777,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+778,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+779,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+780,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+781,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+782,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+783,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+784,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+785,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+786,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+787,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+788,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+789,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+790,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+791,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+792,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+793,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+794,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+795,Leisure Town,1 BHK1 Bath,460 sq.ft. (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+796,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+797,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+798,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+799,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+800,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+801,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+802,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+803,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+804,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+805,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+806,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+807,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+808,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+809,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+810,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+811,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+812,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+813,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+814,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+815,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+816,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+817,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+818,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+819,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+820,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+821,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+822,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+823,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+824,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+825,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+826,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+827,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+828,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+829,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+830,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+831,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+832,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+833,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+834,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+835,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+836,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+837,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+838,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+839,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+840,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+841,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+842,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+843,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+844,Leisure Town,1 BHK1 Bath,460 sq.ft. (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+845,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+846,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+847,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+848,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+849,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+850,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+851,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+852,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+853,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+854,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+855,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+856,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+857,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+858,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+859,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+860,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+861,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+862,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+863,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+864,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+865,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+866,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+867,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+868,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+869,Leisure Town,1 BHK1 Bath,460 sq.ft. (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
+870,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+871,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+872,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+873,Mangal Shanti Mansha Phase 2,2 BHK2 Baths,640-700 sq.ft. (59-65 sq.m.) Carpet Area,2 BHK Apartment in Wagholi,13,"₹ 45.21  - 49.07 L₹ 7,036/sq.ft."
+874,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+875,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+876,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+877,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+878,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+879,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+880,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+881,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+882,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+883,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+884,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+885,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+886,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+887,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+888,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+889,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+890,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+891,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+892,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+893,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+894,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+895,Miravet District,2 BHK,842-869 sq.ft. (78-81 sq.m.) Carpet Area,2 BHK Apartment in Ravet,15,₹ 66.67  - 68.81 L
+896,Jogeshwari Sun City4.4 ★,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wagholi,10,"₹ 22 L₹ 2,200/sq.ft."
+897,LMS Finswell Woods,2 BHK2 Baths,773-782 sq.ft. (72-73 sq.m.) Carpet Area,2 BHK Apartment in Viman Nagar,47,"₹ 98  - 99 L₹ 12,668/sq.ft."
+898,Solitere Emerald Tower,2 BHK,741-805 sq.ft. (69-75 sq.m.) Carpet Area,2 BHK Apartment in Vadgaon Budruk,50,₹ 65  - 70.65 L
+899,Kuber Antonia,2 BHK2 Baths,730 sq.ft. (68 sq.m.) Carpet Area,2 BHK Apartment in Wakad,48,₹ 66.57 L
+900,Maithili Square,2 BHK,560-729 sq.ft. (52-68 sq.m.) Carpet Area,2 BHK Apartment in Kiwale,6,₹ 40.31  - 52.37 L
+901,Anika Piccadilly,2 BHK2 Baths,747 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Punawale,15,"₹ 55 L₹ 7,362/sq.ft."
+902,Mandarin 33 West Avenue,3 BHK,"1,428-1,723 sq.ft. (133-160 sq.m.) Carpet Area",3 BHK Apartment in Baner,49,"₹ 2.21  - 2.97 Cr₹ 16,700/sq.ft."
+903,Godrej Woodsville,3 BHK,973 sq.ft. (90 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,6,₹ 99.6 L
+904,Godrej Woodsville,2 BHK,771 sq.ft. (72 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,6,₹ 78.1 L
+905,Nyati Exuberance,2 BHK,688 sq.ft. (64 sq.m.) Super built-up Area,2 BHK Apartment in Undri,15,₹ 58 L
+906,Kalpataru Jade Residences,3 BHK,"1,350 sq.ft. (125 sq.m.) Carpet Area",3 BHK Apartment in Baner,9,"₹ 2.5 Cr₹ 18,518/sq.ft."
+907,La Centra,2 BHK,"683-1,548 sq.ft. (63-144 sq.m.) Carpet Area",2 BHK Apartment in Tathawade,7,₹ 56.96  - 92.4 L
+908,Madhur Aangan,2 BHK,640-644 sq.ft. (59-60 sq.m.) Carpet Area,2 BHK Apartment in Ravet,7,₹ 49.5 L Onwards
+909,Tathawade Mhada,2 BHK,851 sq.ft. (79 sq.m.) Carpet Area,2 BHK Apartment in Tathawade,9,₹ 68 L
+910,Shivraj Krushnaraj Park,,"1,000 sq.ft. (93 sq.m.) Plot Area",Residential land / Plot in Wadki,15,₹ 7 L
+911,Shapoorji Joyville Sensorium,3 BHK3 Baths,979 sq.ft. (91 sq.m.) Carpet Area,3 BHK Apartment in Hinjewadi,15,"₹ 1.07 Cr₹ 10,979/sq.ft."
+912,Shapoorji Joyville Sensorium,2 BHK2 Baths,715-792 sq.ft. (66-74 sq.m.) Carpet Area,2 BHK Apartment in Hinjewadi,15,"₹ 78.5  - 86.95 L₹ 10,972/sq.ft."
+913,Kolte Patil Crown,2 BHK2 Baths,637-674 sq.ft. (59-63 sq.m.) Carpet Area,2 BHK Apartment in Moshi,15,₹ 38.52  - 40.37 L
+914,Elated Khushvista,2 BHK,711-715 sq.ft. (66-66 sq.m.) Carpet Area,2 BHK Apartment in NIBM,15,₹ 49  - 49.28 L
+915,Aishwaryam Insignia,2 BHK,670 sq.ft. (62 sq.m.) Carpet Area,2 BHK Apartment in Punawale,5,₹ 48.8 L
+916,Royal Purandar,,"10,000 sq.ft. (929 sq.m.) Plot Area",Residential land / Plot in Devadi,5,₹ 55 L₹ 550/sq.ft.
+917,Leisure Town,2 BHK2 Baths,743 sq.ft. (69 sq.m.) Carpet Area,2 BHK Apartment in Hadapsar,7,₹ 83 L
+918,Park Titan,3 BHK,"988-1,212 sq.ft. (92-113 sq.m.) Carpet Area",3 BHK Apartment in Marunji,9,₹ 94 L - 1.16 Cr
+919,Leisure Town,1 BHK1 Bath,460 sq.ft. (43 sq.m.) Carpet Area,1 BHK Apartment in Hadapsar,7,₹ 49 L
